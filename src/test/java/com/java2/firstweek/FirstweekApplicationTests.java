@@ -1,0 +1,13 @@
+package com.java2.firstweek;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class FirstweekApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
